@@ -1,7 +1,7 @@
 # Joel William Olson
-Age 19
-Lives in [Weed California](https://en.wikipedia.org/wiki/Weed,_California)
-Is able to work remote
+- Age 19
+- Lives in [Weed California](https://en.wikipedia.org/wiki/Weed,_California)
+- Is able to work remote
 ## What I know
 - MySql
 - Python 
