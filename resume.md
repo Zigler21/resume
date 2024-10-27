@@ -1,7 +1,7 @@
 # Joel William Olson
-- Age 19
+- Age 20
 - Lives in [Weed California](https://en.wikipedia.org/wiki/Weed,_California)
-- Is able to remote work 
+- Perfered remote work  
 - (808) 280-6160 or joelwoot7@gmail.com
 
 ## What I know
@@ -12,12 +12,15 @@
 - Windows
 
 ## What I have
-- A passion for learning new Technology and Cyber Security. 
+- A passion for learning new Technologies and learning about Digital Security, mostly in Digital Forensics. 
 - Manager Work / Team building and leading
+- Knowledge in using Linux based systems, (I use Linux myself).
+- Uses Virtual Machines and docker containers, as well as hosting webpages using Linode.
 
 ## What I want
-- Looking for a work envornment where I can learn and work with others.
+- Looking for a work envornment where I can learn and work with others while.
 - Being a young talent in the feild of Cyber Security I would like to learn how systems work.
+- 
 
 ## Education
 - Burroughs High School Ridgecrest, CA High School Diploma, June 2022
@@ -25,7 +28,7 @@
 
 ## What I'm currently learning
 - C
+- Assembly 9.6
 - Go
 - JavaScript
-- HTMX
 - Cisco 200-301 CCNA 
